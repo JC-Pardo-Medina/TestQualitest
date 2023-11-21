@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2022.1.16f1\Editor\Unity.exe" -batchmode -projectPath "C:\Users\jcpar\Meet and greet test" -runTests -testResults "C:\Users\jcpar\Meet and greet test result.xml"
