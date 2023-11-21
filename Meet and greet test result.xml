@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2023-11-21 02:14:30Z" end-time="2023-11-21 02:14:31Z" duration="0,0801358">
+  <test-suite type="TestSuite" id="1013" name="Meet and greet test" fullname="Meet and greet test" runstate="Runnable" testcasecount="2" result="Passed" start-time="2023-11-21 02:14:30Z" end-time="2023-11-21 02:14:31Z" duration="0.080136" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1021" name="Tests.dll" fullname="C:/Users/jcpar/Meet and greet test/Library/ScriptAssemblies/Tests.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2023-11-21 02:14:31Z" end-time="2023-11-21 02:14:31Z" duration="0.054967" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="1540" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestFixture" id="1018" name="OculusIntegrationTest" fullname="OculusIntegrationTest" classname="OculusIntegrationTest" runstate="Runnable" testcasecount="2" result="Passed" start-time="2023-11-21 02:14:31Z" end-time="2023-11-21 02:14:31Z" duration="0.052501" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1019" name="OVRInputIsPresent" fullname="OculusIntegrationTest.OVRInputIsPresent" methodname="OVRInputIsPresent" classname="OculusIntegrationTest" runstate="Runnable" seed="666257827" result="Passed" start-time="2023-11-21 02:14:31Z" end-time="2023-11-21 02:14:31Z" duration="0.025512" asserts="0">
+          <properties />
+        </test-case>
+        <test-case id="1020" name="OVRManagerIsPresent" fullname="OculusIntegrationTest.OVRManagerIsPresent" methodname="OVRManagerIsPresent" classname="OculusIntegrationTest" runstate="Runnable" seed="2008426345" result="Passed" start-time="2023-11-21 02:14:31Z" end-time="2023-11-21 02:14:31Z" duration="0.000573" asserts="0">
+          <properties />
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
